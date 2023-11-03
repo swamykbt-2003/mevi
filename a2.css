@@ -1,0 +1,9 @@
+img{
+    height: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+}
+body{
+    background-image: url(download.jpeg); background-size: 2000px;
+}

@@ -1,0 +1,44 @@
+.flag 
+{width: 800px;
+    height: 200px;
+    border-left: 10;
+    border-top: 20px;
+
+}
+body{
+    background-image:url(OOO.jpg)
+    backgroundsize: 20px;
+    backgroundwidth: 10px;
+
+    
+}
+.top{
+    height: 100px;
+    background-color: yellow;
+}
+.bottom{
+    height: 100px;
+    background-color: red;
+}
+img {
+    height: 300px;
+    width: 650px;
+}
+
+h1 {
+    background-color: gray;
+}
+
+#first {
+    background-color: blue;
+    color: aliceblue;
+}
+
+.heading {
+    color: red;
+    background-color: white;
+}
+
+.stylesheet {
+    background-color: green;
+}
